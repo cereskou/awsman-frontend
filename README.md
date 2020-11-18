@@ -19,6 +19,13 @@ Frontend for aws assistant
 ### Change Password
 ![password](https://github.com/cereskou/awsman-frontend/blob/main/docs/images/cognito-pass.png)
 
+## CloudTrail
+### List
+![cloudtrail](https://github.com/cereskou/awsman-frontend/blob/main/docs/images/cloudtrail.png)
+
+### Detail
+![detail](https://github.com/cereskou/awsman-frontend/blob/main/docs/images/cloudtrail-detail.png)
+
 ## Load Balancer
 ![elb](https://github.com/cereskou/awsman-frontend/blob/main/docs/images/elb.png)
 
